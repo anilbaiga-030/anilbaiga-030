@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" alt="Coder Pic" height=380 width=650 src="https://inmediatum.com/wp-content/uploads/2020/02/Why-programming-is-the-skill-you-have-to-learn.jpg" />
+<img align="center" alt="Coder Pic" height=400 width=700 src="https://inmediatum.com/wp-content/uploads/2020/02/Why-programming-is-the-skill-you-have-to-learn.jpg" />
 </div>
 
 <h1 align="center"> < Hello World /> <img alt="Coder GIF" height=50 width=50 src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" /> </h1>
