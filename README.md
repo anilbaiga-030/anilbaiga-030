@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anil Baiga</h1>
-<h3 align="center">I'm Anil Baiga a 4th year Computer Science Undergraduate from Jabalpur Engineering College, Jabalpur. I'm a Tech Enthusiast, Front-end Web Developer and an Open Source Contributer. I love to explore and learn about new domains.</h3>
+<h3 align="center">I'm Anil Baiga a 4th year Computer Science undergraduate from Jabalpur Engineering College, Jabalpur. I'm a Tech Enthusiast, Front-end Web Developer and an Open Source Contributer. I love to explore and learn about new domains.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anilbaiga-030&label=Profile%20views&color=0e75b6&style=flat" alt="anilbaiga-030" /> </p>
 
