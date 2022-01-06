@@ -5,7 +5,7 @@
 <h1 align="center"> < Hello World /> <img alt="Coder GIF" height=50 width=50 src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" /> </h1>
 
 
-<p> I'm Anil Baiga a 4th year Computer Science undergraduate from Jabalpur Engineering College, Jabalpur. I'm a Tech Enthusiast, Front-end Web Developer. I love to explore and learn about new domains.</p>
+<p> Currently pursuing Bachelors in Technology in Computer Science Engineering from <a href="https://www.jecjabalpur.ac.in/">Jabalpur</a>. I'm a Tech Enthusiast, Front-end Web Developer.</p>
 
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
