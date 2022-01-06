@@ -1,17 +1,31 @@
-<h1 align="center">Hi 👋, I'm Anil Baiga</h1>
-<h4 align="center">I'm Anil Baiga a 4th year Computer Science undergraduate from Jabalpur Engineering College, Jabalpur. I'm a Tech Enthusiast, Front-end Web Developer and an Open Source Contributer. I love to explore and learn about new domains.</h4>
+<div align="center">
+<img align="center" alt="Coder Pic" height=380 width=650 src="https://inmediatum.com/wp-content/uploads/2020/02/Why-programming-is-the-skill-you-have-to-learn.jpg" />
+</div>
+
+<h1 align="center"> < Hello World /> <img alt="Coder GIF" height=50 width=50 src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" /> </h1>
+
+
+<p> I'm Anil Baiga a 4th year Computer Science undergraduate from Jabalpur Engineering College, Jabalpur. I'm a Tech Enthusiast, Front-end Web Developer. I love to explore and learn about new domains.</p>
+
+
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anilbaiga-030&label=Profile%20views&color=0e75b6&style=flat" alt="anilbaiga-030" /> </p>
 
-
-
+   
 - 🔭 I’m currently working on **private repository.**
-
 - 🌱 I’m currently learning **Mastring React.js**
+- 🤔 Ask me about **JavaScript and Web Development**
+- :heart_eyes: Schwags and Goodies drives me crazy
+- 📫 How to reach me [Mail](mailto:anbaiga2000@gmail.com)
+- 📝 Checkout my [Resume](https://drive.google.com/file/d/1-tCSrt9Puzhal0Fd7x_n4yGvVAgOybDZ/view?usp=sharing) 
+- :sparkling_heart: Fun Fact - I love using Emojis 
+  
 
-- 🤔 Ask me about **JavaScript and Web Development, I am happy to help;**
-
-- 📫 How to reach me **anbaiga2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
