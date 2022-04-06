@@ -22,7 +22,7 @@
 - 🤔 Ask me about **JavaScript and Web Development**
 - :heart_eyes: Schwags and Goodies drives me crazy
 - 📫 How to reach me [Mail](mailto:anbaiga2000@gmail.com)
-- 📝 Checkout my [Resume](https://drive.google.com/file/d/1-tCSrt9Puzhal0Fd7x_n4yGvVAgOybDZ/view?usp=sharing) 
+- 📝 Checkout my [Resume](https://drive.google.com/file/d/1NgNP1oIDcYwhUOJrZNEwVM8sYWMh6dMH/view?usp=sharing) 
 - :sparkling_heart: Fun Fact - I love using Emojis 
   
 
